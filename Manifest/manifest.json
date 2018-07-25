@@ -3,16 +3,16 @@
   "manifestVersion": "1.0",
   "version": "1.0.0",
   "id": "8f57c81f-fc26-4a59-b3bb-8a6bd646df48",
-  "packageName": "com.teams.admin",
+  "packageName": "com.microsoft.teams.TeamdAdminBot",
   "developer": {
-    "name": "Teams Admin developer",
+    "name": "Microsoft",
     "websiteUrl": "https://www.microsoft.com",
     "privacyUrl": "https://www.microsoft.com/privacy",
     "termsOfUseUrl": "https://www.microsoft.com/termsofuse"
   },
   "name": {
     "short": "Teams Admin Bot",
-    "full": "This is an app for an AirPASS"
+    "full": "This is an Teams Admin Bot"
   },
   "description": {
     "short": "This is an admin app",
@@ -38,7 +38,6 @@
     "identity"
   ],
   "validDomains": [
-    "*.ngrok.io",
     "*.botframework.com"
   ]
 }
